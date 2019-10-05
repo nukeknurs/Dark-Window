@@ -1,6 +1,6 @@
 # But why?
 
-Imagine that it's night, you play some sweet-crazy-action game, have 2 monitors, **BUT** instead of turning one off you want to keep an eye on mails, task manager and some videos :crab: + you just hate Dark-Mode. 
+Imagine that it's night, you play some sweet-crazy-action game, have 2 (or more) monitors, **BUT** instead of turning one off you want to keep an eye on mails, task manager and some videos :crab: + you just hate Dark-Mode. 
 
 ## How it works?
 
